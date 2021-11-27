@@ -1,0 +1,25 @@
+
+
+#EXTM3U
+#EXTINF:-Ponte D LuisI
+https://frn.rtsp.me/F9BobTL4xU7ruaSiYIcLkQ/1637430242/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-2
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1822439661.m3u8
+#EXTINF:-3
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w2014462802.m3u8
+#EXTINF:-4	
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w2125914314.m3u8
+#EXTINF:-5	
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w247083347.m3u8
+#EXTINF:-6
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1174302264.m3u8
+#EXTINF:-7	
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w717183490.m
+#EXTINF:-8
+https://frn.rtsp.me/F9BobTL4xU7ruaSiYIcLkQ/1637430242/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-9
+https://hls-hw.xvideos-cdn.com/videos/hls/ef/cb/14/efcb1490395fc636b9b24c7009d39204/hls-720p-7e1cc.m3u8?e=1638043577&l=0&h=9a4d313481971f823568b036bd20d341
+#EXTINF:-10	
+https://hls-hw.xvideos-cdn.com/videos/hls/c4/df/11/c4df11ea1eadce8721ae81f906de39e7/hls-360p.m3u8?e=1638044111&l=0&h=b8284fa431e9aa73f78fd5dfc24e1529
+
+
